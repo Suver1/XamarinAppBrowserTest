@@ -1,31 +1,13 @@
-﻿<Properties StartupConfiguration="{B16CDDA9-8865-4649-A99D-463E39794726}|Default">
+﻿<Properties StartupConfiguration="{2105FCED-4A2B-4521-8832-BC2172BAC3B3}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="BrowserTest Status">
     <Files>
-      <File FileName="../PrisguideMultiPlatform/Prisguide/PrisguidePage.xaml.cs" Line="2" Column="1" />
-      <File FileName="BrowserTest/BrowserTestPage.xaml.cs" Line="21" Column="5" />
-      <File FileName="BrowserTest/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="24" Column="26" />
+      <File FileName="BrowserTest.Lib/ISystemInformationHandler.cs" Line="1" Column="1" />
+      <File FileName="iOS/Locator.cs" Line="18" Column="3" />
+      <File FileName="Droid/Locator.cs" Line="20" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="27" Column="1" />
       <File FileName="BrowserTest Status" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="BrowserTest" expanded="True">
-            <Node name="BrowserTest" expanded="True">
-              <Node name="App.xaml" expanded="True" />
-              <Node name="BrowserTestPage.xaml" expanded="True">
-                <Node name="BrowserTestPage.xaml.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-          <Node name="PrisguideMultiPlatform" expanded="True">
-            <Node name="Prisguide" expanded="True">
-              <Node name="App.xaml" expanded="True" />
-              <Node name="PrisguidePage.xaml" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -33,4 +15,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.BrowserTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.00FCEE13-8AFA-44AF-97A1-817186F2523C" />
+  <MonoDevelop.Ide.ItemProperties.BrowserTest.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
 </Properties>

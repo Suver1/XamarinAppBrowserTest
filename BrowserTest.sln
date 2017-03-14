@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTest.iOS", "iOS\Brow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTest.Droid", "Droid\BrowserTest.Droid.csproj", "{2105FCED-4A2B-4521-8832-BC2172BAC3B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTest.Lib", "BrowserTest.Lib\BrowserTest.Lib.csproj", "{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,17 @@ Global
 		{2105FCED-4A2B-4521-8832-BC2172BAC3B3}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{2105FCED-4A2B-4521-8832-BC2172BAC3B3}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{2105FCED-4A2B-4521-8832-BC2172BAC3B3}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Release|iPhone.Build.0 = Release|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{57487281-33F8-467A-A2AF-1B1FCA4DF4DD}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
