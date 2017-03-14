@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{B16CDDA9-8865-4649-A99D-463E39794726}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BrowserTest Status">
+    <Files>
+      <File FileName="BrowserTest Status" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BrowserTest" expanded="True" selected="True">
+            <Node name="BrowserTest" expanded="True" />
+            <Node name="BrowserTest.Droid" expanded="True" />
+            <Node name="BrowserTest.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BrowserTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>
