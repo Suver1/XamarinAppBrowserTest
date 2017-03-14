@@ -141,7 +141,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="SystemInformationHandeler.cs" />
+    <Compile Include="SystemInformationHandler.cs" />
     <Compile Include="Locator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
